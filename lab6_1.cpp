@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int ip=1,even=0,odd=0;
+    int ip,even=0,odd=0;
     while (true){
         cout << "Enter an integer: ";
         cin >> ip;
